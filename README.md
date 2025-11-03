@@ -1,6 +1,6 @@
 # STUDI KASUS 2 SIMULASI SISTEM LALU LINTAS CERDAS (TRAFFIC GRID)
 
-Pembantaian 2
+Kelompok 2
 
 Annisa Rohiimah Sufriyani	(G1A025013) 
 
